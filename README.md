@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @AnupaSP
-- 👀 I’m interested in ...
-- 🌱 I’m currently a PhD s
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m @AnupaSP
+
+
 
