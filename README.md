@@ -5,4 +5,5 @@
 - A biologist trying to navigate this science field 
 - Don't really understand anything right now but that is not unusual 
 
-
+# Mircoglia can be activated 
+---- but I am constantly resting 
